@@ -625,7 +625,7 @@
       <workItem from="1538097352666" duration="23468000" />
       <workItem from="1538145998899" duration="1645000" />
       <workItem from="1538147695291" duration="1084000" />
-      <workItem from="1538231440948" duration="697000" />
+      <workItem from="1538231440948" duration="725000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1538124980680</created>
@@ -641,7 +641,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538232129754</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="delete out directory file">
+      <created>1538232153059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538232153059</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -677,7 +684,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35054000" />
+    <option name="totallyTimeSpent" value="35082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -725,7 +732,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="delete out directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete out directory" />
+    <MESSAGE value="delete out directory file" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete out directory file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
